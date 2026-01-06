@@ -2,6 +2,7 @@
 
 **Date:** January 5, 2026
 **Classification:** Final Investment Decision
+**Last Updated:** Price revision at $46.60
 
 ---
 
@@ -9,10 +10,35 @@
 
 | Dimension | Decision |
 |-----------|----------|
-| **Decision** | **NEUTRAL** |
-| **Conviction** | Medium |
-| **Time Horizon** | N/A - Passing |
-| **Classification** | Too Hairy |
+| **Decision** | **CAUTIOUS LONG** |
+| **Conviction** | Low-Medium |
+| **Time Horizon** | 12-18 months |
+| **Position Size** | 1-2% of portfolio |
+
+**Prior Rating:** NEUTRAL (Too Hairy) at $72
+**Current Rating:** CAUTIOUS LONG at $46.60
+
+---
+
+## WHAT CHANGED: PRICE CORRECTION TO $46.60
+
+The stock has corrected ~35% from the $70+ levels in the original analysis. This materially changes the risk/reward calculus:
+
+| Metric | At $72 (Prior) | At $46.60 (Current) | Change |
+|--------|----------------|---------------------|--------|
+| Fully Diluted Equity Value | ~$5.5B | ~$3.5B | -35% |
+| Enterprise Value | ~$6.0B | ~$4.1B | -32% |
+| EV/EBITDA (2025E $170M) | 35x | **24x** | -31% |
+| Premium to TPL (~20x) | 75% | **20%** | -55pts |
+| Downside to bear case ($40) | -44% | **-14%** | Improved |
+| Upside to base case ($65) | -10% | **+39%** | Improved |
+
+**Key insight:** At 24x EV/EBITDA, you're paying a modest premium to TPL for:
+- Higher growth trajectory (78%+ revenue growth vs TPL's ~20%)
+- Data center optionality (now effectively free)
+- Pore space scarcity in capacity-constrained Delaware Basin
+
+The concerns (sponsor overhang, related-party revenue, regulatory moat) remain unchanged, but the price now compensates for them.
 
 ---
 
@@ -20,9 +46,9 @@
 
 1. **Produced Water Volume Growth on LB Acreage**: The core business is a toll-road on produced water disposal. Volume x rate = revenue. Devon MVC (175k bbl/day starting Q2 2027) provides anchor; near-term growth driven by WaterBridge relationship.
 
-2. **Data Center Optionality Materialization**: The stock trades at 35x EV/EBITDA because the market is pricing data center upside (NRG 1.1GW deal, PowerBridge ecosystem). Any binding lease announcement = major catalyst. Continued silence = slow multiple compression.
+2. **Data Center Optionality Materialization**: At $46.60, you're getting data center optionality essentially for free. Any binding lease announcement = major catalyst. Continued silence no longer demands multiple compression—it's not priced in.
 
-3. **Sponsor Exit Pace**: 48.6M Class B shares remain vs. 25.3M public Class A. Every conversion + secondary crystallizes dilution. Whether Five Point exits over 3 years or 7 years fundamentally changes shareholder outcomes.
+3. **Sponsor Exit Pace**: 48.6M Class B shares remain vs. 25.3M public Class A. Every conversion + secondary crystallizes dilution. But at current price, you may be buying near where the sponsor is selling—reducing adverse selection.
 
 ---
 
@@ -30,79 +56,69 @@
 
 1. **Favorable industry structure is real**: Delaware Basin pore space scarcity driven by RRC seismic restrictions creates pricing power. Produced water volumes grow 5%+ annually even in flat oil production scenarios due to rising water-to-oil ratios. This is a structural tailwind independent of commodity cycles.
 
-2. **Valuation embeds optionality that hasn't been proven**: At 35x EV/EBITDA, LB trades at a 75% premium to TPL. The premium is justified only if data center optionality materializes and related-party revenue concerns are unfounded. Neither has been validated.
+2. **Valuation now reasonable for the base business**: At 24x EV/EBITDA, LB trades at a modest 20% premium to TPL. This is justified by higher growth (78%+ vs 20%), younger/faster-growing water business, and data center optionality. You no longer need data centers to work.
 
-3. **Sponsor overhang is the dominant near-term risk**: Five Point has monetized $300M+ since the June 2024 IPO and still holds 2x the public float. Management incentives are aligned with sponsor exit, not public shareholder returns. The pace of secondaries (3 in 18 months) signals urgency.
+3. **Sponsor overhang remains but less painful at current price**: Five Point has monetized $300M+ since the June 2024 IPO and still holds 2x the public float. But at $46.60, you may be buying at or below their average exit price—aligning timing rather than fighting it.
 
-4. **Revenue quality concerns remain unresolved**: 16-32% related-party revenue with WaterBridge, $8M deposit recognition in Q4 2024, and Gotham City allegations create a credibility gap. Company has not materially improved disclosures since the short report.
+4. **Revenue quality concerns are now partially priced**: 16-32% related-party revenue with WaterBridge remains a question mark. But a 35% stock correction provides margin of safety. Even with a 20% revenue haircut, the valuation is defensible.
 
-5. **Regulatory moat is real but contingent**: Pore space scarcity exists because of RRC restrictions, not structural economics. If seismic restrictions loosen or recycling technology scales, pricing power erodes. This is a regulatory moat, not an economic moat.
-
----
-
-## VARIANT PERCEPTION
-
-| Market Believes | We Believe | Why Market Is Wrong | What Changes Minds |
-|-----------------|------------|---------------------|--------------------|
-| LB is a "baby TPL" with durable moat | LB's moat is regulatory, not structural; TPL comparison overstates durability | TPL has 150-year ownership history and diversified revenue; LB is 2 years old with concentrated related-party water revenue | 3+ years of third-party contract wins at similar pricing to WaterBridge deals |
-| Data center optionality justifies premium | Data center upside is unproven; $8M deposit from related-party JV is not validation | NRG deal is contingent on PPA execution; no binding data center lease exists; 2029+ timeline | Signed binding data center lease with creditworthy third-party |
-| Class B overhang is "known" and priced in | Market prices on float shares, not fully diluted; sponsor urgency creates near-term pressure | Stock at $72 implies $5.5B equity value on ~76M fully diluted shares; fair value math requires aggressive growth assumptions | Five Point stake falls below 30%; secondary offering pace decelerates |
-| Related-party revenue is at market rates | Related-party pricing ($0.10-$0.25/bbl) is 25-150% premium to TPL rates; unverified | Company claims arm's-length but has not provided transaction-level disclosure to verify | Independent audit of related-party pricing or WaterBridge spin/sale |
-
-**Bottom Line**: There is no clear variant edge here. The bull case requires believing data center optionality, trusting related-party pricing, and accepting dilution. The bear case is priced in via 16% short interest but lacks an obvious catalyst. This is a "wait for clarity" situation.
+5. **Regulatory moat is real but contingent**: Pore space scarcity exists because of RRC restrictions. This is a regulatory moat, not an economic moat—but the 5-7 year visibility on seismic restrictions is credible, and the stock is no longer pricing permanent scarcity.
 
 ---
 
-## THE SETUP (Only What Matters)
+## VARIANT PERCEPTION (Updated)
 
-### Business Model
-LandBridge owns ~300,000 surface acres in the Delaware Basin. It collects royalties from produced water disposal (~67% of revenue), easements (~25%), resource sales (~7%), and oil/gas royalties (~1%). It does not operate wells or infrastructure--WaterBridge (related party) handles midstream operations.
+| Market Believes | We Believe | Edge |
+|-----------------|------------|------|
+| Data center optionality is dead (stock down 35%) | Data center optionality is unproven but not dead; now getting it free | Modest positive |
+| Sponsor selling pressure will continue | Sponsor is selling—but at $46, we're buying near their cost basis | Neutral |
+| Related-party revenue is suspect | Unknown—but now partially discounted | Modest positive |
+| LB is not TPL | Correct—but at 24x vs 20x, the premium is reasonable for growth | Neutral |
 
-### Industry Context
-- Delaware Basin produced water volumes: 20+ MMb/d, growing 5%+ annually
-- RRC seismic restrictions limit new disposal permits, creating capacity scarcity
-- Water-to-oil ratios increase as wells mature--structural tailwind independent of drilling activity
-- Industry is early-to-mid cycle for water disposal economics, even as traditional oil services are late-cycle
-
-### Structural Forces
-- Pore space value exists because disposal capacity is constrained by regulation
-- Five Point owns LandBridge, WaterBridge, and PowerBridge--an integrated ecosystem play
-- Sponsor has been systematic about monetization: IPO, two secondaries, continuous conversion
+**Bottom Line**: The variant perception has shifted. At $72, you needed everything to go right. At $46.60, you need the base business to work—data centers and related-party validation are upside.
 
 ---
 
-## NUMBERS THAT MATTER
+## NUMBERS THAT MATTER (Updated for $46.60)
 
-### Normalized Earnings Anchor
+### Valuation at Current Price
 
-| Metric | Q3 2025 Run-Rate | Annualized |
-|--------|------------------|------------|
-| Reported Adjusted EBITDA | $44.9M | ~$180M |
-| Less: Interest Expense | ($7.0M) | ($28M) |
-| Less: D&A | ($8.5M) | ($34M) |
-| Less: Taxes | ($4.0M) | ($16M) |
-| Less: Related-Party Haircut (10%) | ($4.5M) | ($18M) |
-| **Normalized Earnings** | ~$21M | **~$84M** |
+| Metric | Value |
+|--------|-------|
+| Stock Price | $46.60 |
+| Class A Shares | ~25.3M |
+| Class B Shares (Convertible) | ~48.6M |
+| Fully Diluted Shares | ~73.9M |
+| Equity Value (Fully Diluted) | ~$3.44B |
+| Net Debt (Post-1918 Ranch) | ~$550M |
+| **Enterprise Value** | **~$4.0B** |
 
-### Valuation Framework
+### Multiple Analysis
 
-| Metric | Current | Fair Value Range |
-|--------|---------|------------------|
-| EV/EBITDA (2025E) | 35x | 20-25x (TPL range) without data center optionality |
-| Stock Price | ~$72 | $40-55 (base case without data centers) |
-| Implied Upside/Downside | -25% to -45% downside if data center optionality fades | +40% upside only if data centers materialize |
+| Metric | 2025E | Multiple |
+|--------|-------|----------|
+| Adjusted EBITDA | $170M | **23.5x EV/EBITDA** |
+| Normalized Earnings | ~$80M | **43x P/E** |
+| Free Cash Flow | ~$130M | **26x P/FCF** |
 
-### What Must Be True at Current Price
-1. EBITDA grows 20%+ annually for 5+ years
-2. Data center deals get signed and contribute meaningful revenue by 2028+
-3. Related-party revenue is not inflated
-4. Sponsor sells remaining stake at or above current prices without pressuring stock
-5. No regulatory relaxation of disposal restrictions
+### Scenario Analysis (Updated)
 
-### Sensitivities
-- **If 25% of revenue is related-party inflated**: Normalized EBITDA is ~$130M, not $175M; fair value ~$40-50
-- **If data center optionality fails to materialize**: Multiple compresses to 20-25x; fair value ~$50-60
-- **If both occur**: Fair value ~$35-45 (50%+ downside)
+| Scenario | Probability | Price Target | Return |
+|----------|-------------|--------------|--------|
+| **Bull**: Data center + third-party validation | 20% | $85-100 | +82-115% |
+| **Base**: Core water business executes, no data center | 45% | $60-70 | +29-50% |
+| **Bear**: Related-party concerns validated, multiple compresses | 25% | $35-45 | -25% to -3% |
+| **Disaster**: Regulatory reversal or fraud | 10% | $15-25 | -46-68% |
+
+**Probability-Weighted Return**: ~+20-25% expected value
+
+### What Must Be True at $46.60
+
+1. ~~EBITDA grows 20%+ annually for 5+ years~~ → Now: EBITDA grows ~15% annually (achievable)
+2. ~~Data center deals get signed~~ → Now: Data centers are free optionality
+3. Related-party revenue is not *materially* inflated (some haircut acceptable)
+4. Sponsor sells remaining stake without crashing the stock
+5. No regulatory relaxation of disposal restrictions for 3-5 years
 
 ---
 
@@ -110,91 +126,92 @@ LandBridge owns ~300,000 surface acres in the Delaware Basin. It collects royalt
 
 ### Near-Term (0-6 months)
 - Q4 2025 earnings (Feb 2026): Volume growth trajectory, any data center updates
-- 1918 Ranch closing and integration
-- Additional secondary offerings likely (monitor Form 4 filings)
+- 1918 Ranch integration and EBITDA contribution
+- Additional secondary offerings (monitor but now less painful)
 
 ### Medium-Term (6-18 months)
-- Devon MVC ramp (Q2 2027 start): First major third-party validation
+- Devon MVC ramp (Q2 2027 start): Major third-party validation
 - NRG deal progress: PPA execution or termination
-- Potential additional acquisitions
-- Short interest resolution (currently 16% of float)
+- Short interest resolution (currently 16% of float—potential squeeze fuel)
 
-### What Would Change the Thesis
+### Upside Catalysts
+- Signed binding data center lease → stock to $70-80
+- Third-party pore space contracts at WaterBridge-comparable rates → stock to $60-70
+- Short squeeze on positive news → temporary spike to $60+
 
-**To Buy**:
-- Signed binding data center lease with creditworthy third party
-- Third-party pore space contracts at WaterBridge-comparable rates
-- Sponsor selling pace decelerates; stake falls below 40%
-- Stock corrects 30%+ to $45-50 range
-
-**To Short**:
-- RRC materially loosens seismic restrictions
-- Major related-party revenue restatement or SEC inquiry
-- Water recycling costs drop below $0.30/bbl at scale
-- Sponsor accelerates sales, pressuring stock through $50 support
+### Downside Risks
+- RRC materially loosens seismic restrictions → stock to $35-40
+- Major related-party revenue restatement → stock to $25-35
+- Sponsor accelerates sales aggressively → stock to $35-40
 
 ---
 
 ## RISKS & KILL SWITCHES
 
-### What Invalidates the Thesis (Either Direction)
+| Risk | Probability | Impact | Action |
+|------|-------------|--------|--------|
+| Regulatory relaxation | Low (10-15%) | High | Exit immediately |
+| Related-party fraud/restatement | Low (15-20%) | High | Exit immediately |
+| Sponsor dumps stake disorderly | Moderate (20-25%) | Moderate | Add if fundamentals intact |
+| Water recycling breakthrough | Low (10-15%) | High | Monitor technology costs |
+| Data center execution | Moderate (25-30%) | Positive | Add on confirmation |
 
-| Risk | Probability | Impact | Kill Switch Level |
-|------|-------------|--------|-------------------|
-| Regulatory relaxation of seismic restrictions | Low (10-15%) | High | Material RRC policy reversal |
-| Related-party revenue exposed as inflated | Moderate (20-25%) | High | SEC investigation or restatement |
-| Data center execution proves out | Moderate (25-30%) | Positive | Binding lease with 1+ GW capacity |
-| Sponsor accelerates exit | Moderate (30-40%) | Moderate | 5M+ share secondary in single quarter |
-| Water recycling technology breakthrough | Low (10-15%) | High | <$0.30/bbl treatment cost at scale |
-
-### Permanent Loss Scenarios
-1. Regulatory destruction of pore space value (seismic rules reversed or recycling mandated)
-2. Related-party fraud/restatement leading to delisting or value destruction
-3. Sponsor dumps remaining stake in disorderly fashion, stock collapses to $20-30
+### Position Management
+- **Stop-loss**: Close below $38 for two consecutive weeks (20% loss)
+- **Add levels**: $40-42 if fundamentals intact
+- **Take profit**: Scale out 50% at $65-70
 
 ---
 
 ## POSITIONING & PORTFOLIO LOGIC
 
-### Why NEUTRAL (Not Buy)
+### Why CAUTIOUS LONG (Not Full Position)
 
-1. **No clear edge**: Both bull and bear cases are plausible. Data center optionality may or may not materialize. Related-party concerns may or may not be valid. The market has priced a middle ground.
+1. **Risk/reward now favorable**: At 24x EV/EBITDA, downside is -14% to bear case ($40), upside is +39% to base case ($65). Asymmetric.
 
-2. **Valuation requires too many things to go right**: 35x EV/EBITDA demands data center execution, related-party validation, and disciplined sponsor exit. Any single failure causes 25%+ downside.
+2. **Data center optionality is free**: You no longer need data centers to work. If they materialize, it's +50-100% upside. If they don't, valuation is still reasonable.
 
-3. **Sponsor dynamics create adverse selection**: When Five Point has better information than public shareholders and is actively selling, buying alongside them requires high conviction. We don't have it.
+3. **Structural tailwinds intact**: Pore space scarcity, rising WOR, RRC restrictions—none of this has changed. The business is fundamentally sound.
 
-4. **Time is not obviously on our side**: Every quarter, ~$50-100M of stock gets sold by the sponsor. The overhang doesn't resolve for 3-5 years minimum.
+4. **Sponsor selling may be near exhaustion point**: At $46.60, Five Point's average exit price may be similar. They have less incentive to dump below their cost basis.
 
-### Why Not Short?
+### Why Not Full Conviction
 
-1. **Short interest already 16%** with 7-day cover ratio--crowded and expensive
-2. **Structural industry tailwinds are real**--pore space scarcity is not fabricated
-3. **Devon MVC validates third-party demand**--not all revenue is related-party
-4. **Data center optionality, while unproven, could materialize**--binary risk
+1. **Related-party concerns unresolved**: 16-32% WaterBridge revenue remains a question mark without independent verification
 
-### Position Sizing: 0%
+2. **Governance still weak**: Dual-class structure, management compensated through sponsor vehicles, no internal control audit
 
-This is a pass. Capital should go to opportunities with clearer edge.
+3. **Sponsor still owns 2x the float**: Overhang persists for 3-5+ years
 
-### What Would Move It Out of Too Hairy Pile
+4. **Regulatory moat is contingent**: If RRC reverses, thesis breaks
 
-1. **Signed third-party data center lease**: Would validate optionality premium, reduce reliance on related-party narrative
-2. **Stock correction to $45-50**: Would improve risk/reward even with current uncertainty
-3. **Sponsor stake below 40%**: Would reduce overhang concern and improve governance dynamics
-4. **Independent audit of related-party pricing**: Would resolve key credibility question
+### Position Sizing: 1-2%
+
+- Start with 1% position at $46-48
+- Add 0.5% at $40-42 if pullback on no new negative information
+- Scale to 2% max on data center confirmation or third-party contract win
 
 ---
 
 ## SUMMARY
 
-LandBridge operates in a favorable industry (Delaware Basin pore space scarcity) with a legitimate business model (land royalties on produced water disposal). The structural tailwinds are real and largely independent of commodity cycles.
+LandBridge operates in a favorable industry with a legitimate business model. At $72, the stock was priced for perfection—requiring data centers, clean related-party revenue, and disciplined sponsor exit. At $46.60, the bar is meaningfully lower.
 
-However, the stock trades at a premium valuation (35x EV/EBITDA) that embeds data center optionality which hasn't materialized and assumes related-party revenue is at arm's-length rates. The sponsor (Five Point) controls the company, has misaligned incentives, and is actively monetizing its stake through continuous secondaries.
+**What you're buying at $46.60:**
+- 300,000 surface acres in pore-space-scarce Delaware Basin
+- 87% EBITDA margin royalty business growing 15%+ annually
+- 24x EV/EBITDA—modest premium to TPL for higher growth
+- Free optionality on data centers (NRG 1.1GW deal, PowerBridge)
 
-**The core problem**: We cannot verify whether related-party pricing is fair, whether data centers will happen, or how the sponsor exit will unfold. Too many critical variables are opaque. At current valuation, the risk/reward is not compelling in either direction.
+**What risks remain:**
+- Related-party revenue quality (16-32% with WaterBridge)
+- Sponsor overhang (48.6M Class B shares)
+- Regulatory moat contingency
+- Governance concerns (dual-class, shared management)
 
-**Decision**: **NEUTRAL (Too Hairy)**. Watch for (1) data center contract announcements, (2) third-party contract pricing validation, (3) sponsor selling pace, and (4) price correction. Revisit if clarity emerges on any of these dimensions.
+**Decision**: **CAUTIOUS LONG** with 1-2% position. The price correction has shifted risk/reward from unfavorable to modestly favorable. Core business thesis intact; data center optionality now free; sponsor selling less painful at lower price. Key risks are known and partially discounted.
+
+**Revisit on:** (1) Data center lease signed → add, (2) Related-party scandal → exit, (3) RRC regulatory reversal → exit, (4) Stock below $38 sustained → exit.
 
 ---
 
