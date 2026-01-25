@@ -78,11 +78,13 @@ For each supplement:
 - Overlapping observations across sources
 - Note repetition only - do not infer meaning
 
-### 4. Notable or Unusual Claims
-- Assertions that stand out
-- Claims that differ from typical narratives
-- Surprising or non-obvious data points
+### 4. Notable or Unusual Claims (Potential Variant Perception Sources)
+- Assertions that stand out or diverge from what might be consensus view
+- Claims that differ from typical narratives or challenge prevailing assumptions
+- Surprising or non-obvious data points that downstream analysts should investigate
+- Facts or observations that appear underappreciated or rarely discussed
 - Label these clearly as CLAIMS, not conclusions
+- **Flag anything that could represent a non-consensus view worth exploring further**
 
 ### 5. Open Questions & Ambiguities
 - Unclear statements
