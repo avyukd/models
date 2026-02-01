@@ -188,8 +188,32 @@ If a reader cannot reconstruct **where something came from**, the output is inva
 
 - Do not force conviction
 - Passing is acceptable
-- “Too hard” is a valid conclusion
+- "Too hard" is a valid conclusion
 - Clarity beats cleverness
+
+---
+
+### 6. Output Efficiency Rules (Mandatory)
+
+Agents must minimize token output while preserving analytical substance.
+
+**Do NOT include:**
+- Company background/overview (the decision-maker already knows)
+- Methodology explanations (assume the reader knows what a DCF is)
+- Preambles ("In this analysis, we will examine...")
+- Restating the question or task
+- "In conclusion" sections that repeat earlier findings
+- Caveats about data limitations unless they materially affect conclusions
+- Generic industry context unless it's the specific insight
+
+**Format discipline:**
+- Lead with findings, not setup
+- One sentence per insight where possible
+- Tables over prose for comparable data
+- Bullet points over paragraphs
+- No section if you have nothing non-obvious to say in it
+
+**The test:** If a sentence could be deleted without losing information the decision-maker needs, delete it.
 
 ---
 
@@ -236,6 +260,7 @@ Ask yourself before submitting:
 - "What did I find that a lazy analyst wouldn't?"
 - "What's the single most important thing I learned?"
 - "Where is consensus likely wrong?"
+- "Can I cut this output in half without losing insight?" (If yes, do it.)
 
 ### For Investment Decision Maker
 
