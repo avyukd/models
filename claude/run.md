@@ -145,7 +145,13 @@ If a source appears machine-generated or low-effort, discard it.
 
 ---
 
-### 2. No Invented or Hallucinated Data
+### 2. Look Up Current Stock Price
+
+Look up the current stock price for the ticker being analyzed, or use the price provided by the user if given. This provides essential context for valuation and expectations analysis.
+
+---
+
+### 3. No Invented or Hallucinated Data
 
 - Agents must **never fabricate numbers**
 - If data is unavailable or ambiguous:
@@ -154,7 +160,7 @@ If a source appears machine-generated or low-effort, discard it.
 
 ---
 
-### 3. Traceability & Transparency
+### 4. Traceability & Transparency
 
 Every agent must ensure:
 - Key figures are traceable to a source
@@ -165,7 +171,7 @@ If a reader cannot reconstruct **where something came from**, the output is inva
 
 ---
 
-### 4. Scope Discipline
+### 5. Scope Discipline
 
 - Agents must stay within their defined scope
 - **Valuation** only in:
@@ -184,7 +190,7 @@ If a reader cannot reconstruct **where something came from**, the output is inva
 
 ---
 
-### 5. Decision Hygiene
+### 6. Decision Hygiene
 
 - Do not force conviction
 - Passing is acceptable
@@ -193,7 +199,7 @@ If a reader cannot reconstruct **where something came from**, the output is inva
 
 ---
 
-### 6. Output Efficiency Rules (Mandatory)
+### 7. Output Efficiency Rules (Mandatory)
 
 Agents must minimize token output while preserving analytical substance.
 
