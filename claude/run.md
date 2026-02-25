@@ -68,9 +68,11 @@ Launch all applicable specialist agents concurrently:
 
 **Which agents to run:**
 - **Always run**: rigorous-financial-analyst, business-moat-analyst
-- **Run if relevant**: industry-structure-cycle-analyst (for cyclical industries or unclear cycle position)
-- **Run if relevant**: capital-allocation-analyst (for companies with M&A history, high SBC, or governance concerns)
+- **Run if relevant**: industry-structure-cycle-analyst — run ONLY when the industry is meaningfully cyclical (commodities, homebuilders, shipping, semiconductors) or when cycle position is a key driver of the thesis. **Skip for**: stable/secular-growth industries, financial exchanges with predictable volume trends, SaaS, consumer staples, etc.
+- **Run if relevant**: capital-allocation-analyst — run ONLY when capital allocation is a genuine differentiator or risk: serial acquirers (3+ deals in 5 years), SBC >10% of revenue, contested proxy/governance situations, or companies where buyback/dividend policy is a core thesis driver. **Skip for**: recent IPOs with minimal M&A history, companies where the financial analyst already covers SBC adequately, simple operating businesses.
 - **Run only if material**: geopolitical-risk-analyst (for China/Russia/EM exposure, defense, energy, semiconductors, or sanctions risk)
+
+**When in doubt, skip optional agents.** Two high-quality specialist outputs beat four mediocre ones. The decision maker can flag gaps.
 
 Each agent:
 - Must follow **its agent spec**
@@ -81,6 +83,13 @@ Each agent:
   - Judgments
 - Must run in the background
 - Must identify **key drivers** and **non-consensus insights** (see Second-Order Thinking section)
+
+**Orchestrator prompt requirements (CRITICAL):** When launching each agent, the orchestrator MUST include these constraints verbatim in the agent's prompt:
+- "Your output MUST be under 1,500 words. A pre-write hook will reject files over this limit."
+- "You have a budget of 15 web lookups (WebSearch + WebFetch combined). Prioritize SEC filings and one financial data site. Do not search the same information on multiple sites."
+- For the investment-decision-maker: "Your memo MUST be under 2,500 words. A pre-write hook will reject files over this limit."
+
+Agents do NOT read run.md — they only see what the orchestrator tells them. If you don't include these constraints in the prompt, they will not be followed.
 
 ---
 
@@ -202,6 +211,17 @@ If a reader cannot reconstruct **where something came from**, the output is inva
 ### 7. Output Efficiency Rules (Mandatory)
 
 Agents must minimize token output while preserving analytical substance.
+
+**Hard word limits (strictly enforced):**
+- Specialist agents: **1,500 words max** per output file
+- Investment-decision-maker memo: **2,500 words max**
+- If you hit the limit, cut the least differentiated content — not the non-consensus insights
+
+**Tool call budget:**
+- Specialist agents: **max 15 web lookups** (WebSearch + WebFetch combined)
+- Prioritize SEC filings and one financial data site (e.g., stockanalysis.com) over broad trawling
+- Do not search for the same information on multiple sites — one good source is enough
+- If you haven't found what you need in 15 lookups, state the gap and move on
 
 **Do NOT include:**
 - Company background/overview (the decision-maker already knows)
