@@ -1,64 +1,62 @@
 # TIC Solutions (NYSE: TIC) - Investment Decision Memo
 
+**Date:** 2026-02-27 | **Price:** $9.85 | **Market Cap:** ~$2.2B | **EV:** ~$3.5B | **Shares:** ~221M (241M fully diluted)
+
+**Prior Rating:** NEUTRAL (Too Hard) at $10 | **Updated with Citrini + Colubeat theses, NV5 segment data**
+
+---
+
 ## Recommendation
 
-- **Decision:** NEUTRAL (Too Hard)
-- **Conviction:** N/A
-- **Time horizon:** N/A
-- **Classification:** Too Hard / Pass
+- **Decision:** NEUTRAL (Watchlist — Catalyst-Dependent)
+- **Conviction:** Low-Medium
+- **Time horizon:** 6-12 months
+- **Classification:** Data center re-rating thesis is plausible, FCF better than initially modeled, but capital structure friction keeps this on watchlist. March 12 Q4 earnings is the decision point.
 
 ---
 
-## Key Drivers (The 1-3 Things That Matter)
+## What Changed Since Original Memo
 
-1. **Deleveraging execution** -- At 4.1x net debt/EBITDA, every quarter's FCF generation and EBITDA growth trajectory determines whether equity value accretes or erodes. Current path requires ~18-24 months to reach 3.0x target.
+1. **NV5 brought a data center engineering business we missed.** Surpassed 1GW of global data center design/commissioning. Revenue doubled YTD from <$50M base. Management targets $400M+. Designs cooling and electrical systems for hyperscalers (AMZN, GOOG, MSFT). In 2024, helped clients unlock ~300MW of additional computing capacity.
 
-2. **NV5 integration** -- $25M synergy target (mid-2027) and segment margin normalization are load-bearing. Miss on integration = multiple compression + extended deleveraging timeline.
+2. **The mix shift is already visible.** Combined gross margin: 32% (vs 25% legacy Acuren). Engineering at 51.4% gross, Geospatial at 48.4%, I&M at 28.5%. Half of EBITDA now comes from high-multiple business lines. Legence IPO'd at ~$5B with similar EBITDA to NV5 standalone — TIC's entire EV is $3.5B.
 
-3. **Incentive structure alignment** -- Martin Franklin's Series A Preferred extracts 20% of stock appreciation above $10. This rewards EBITDA growth and stock price, not per-share value creation. 82% share count increase in 11 months.
+3. **FCF is substantially higher than original estimate.** $350M EBITDA - $105M interest - $25M cash taxes (acquisition tax shield) - $50M capex = **$170M FCF** (7.7% yield). Original memo estimated $70-75M using pre-NV5 structure and overstated taxes.
+
+4. **Revenue synergies are real.** $40M year-one cross-selling target backed by contracts. NV5 had no Canadian footprint; Acuren dominates Canada. Consensus 2028 revenue of ~$2.5B implicitly models 20%+ legacy TIC revenue decline — contradicts historical pattern.
+
+5. **I&M margin decline is temporary.** 25.1% → 22.8% driven by: LNG call-out work completing, turnaround timing shifting to 2026, 3-6 month wage pass-through lag, deliberate low-margin client pruning. Not structural.
 
 ---
 
-## Thesis Summary
+## The Three Engines
 
-TIC is a levered roll-up in a structurally attractive industry (regulatory-mandated, non-discretionary inspection demand). The business has real value: 95% recurring revenue, labor supply moat, and defensive characteristics. However:
+| Segment | % Revenue | Gross Margin | Role |
+|---------|----------|-------------|------|
+| Inspection & Mitigation | ~55% | 28.5% | Cash cow — 90% recurring, regulatory-mandated, funds debt paydown |
+| Engineering & Consulting | ~30% | 51.4% | Growth engine — data center design, infrastructure. Double-digit growth |
+| Geospatial | ~15% | 48.4% | Tech moat — LiDAR, digital twins, 50% gov/defense, SaaS-like retention |
 
-- Current valuation (15.5x EV/EBITDA) prices in successful integration with no margin of safety
-- GAAP unprofitable; "earnings" exist only on adjusted basis
-- Normalized FCF yield is ~3.2-3.4%, not the 6%+ often cited (that ignores post-NV5 debt burden)
-- Franklin's preferred structure creates asymmetric incentives favoring growth over returns
-- 82% dilution in 11 months with no buyback program
+---
 
-**The business quality is medium-high. The setup quality is low.**
+## Key Drivers
+
+1. **Data center revenue trajectory** — If CE data center business scales from <$50M toward $150-200M, it re-classifies TIC toward engineering multiples (15-20x) vs NDT multiples (12-14x). Needs to reach 10%+ of revenue to shift blended multiple.
+
+2. **Deleveraging pace** — Net debt ~$1.2B. At $170M annual FCF, leverage drops from ~3.5x to ~2.0x by end of 2028. Executive comp tied to 60% FCF/EBITDA conversion. Variable-rate unhedged debt = every 100bps rate cut saves ~$16M interest.
+
+3. **Franklin's preferred** — 20% of stock appreciation above $10. Stock at $9.85 = at the strike. Structural tax on common upside. 668K shares issued Dec 2025 as first dividend. This is worse alignment than APG where Franklin held common.
 
 ---
 
 ## Variant Perception
 
-| Market Believes | We Believe | Why Market Is Wrong | Novel Information | What Changes Minds |
-|-----------------|------------|---------------------|-------------------|-------------------|
-| Franklin repeat of APi Group/Jarden | Incentive structure differs materially from Jarden | At Jarden, Franklin was aligned as common equity holder. Here, Series A Preferred captures 20% of upside, rewarding stock appreciation over ROIC | Series A dividend structure explicitly documented; 668K shares issued Dec 2025 as first dividend | Sustained buybacks at attractive prices (unlikely near-term) |
-| FCF yield 6%+ | FCF yield ~3.2% after proper accounting | Legacy analysis uses pre-NV5 capital structure; post-merger interest burden is $100M+ annually | Financial analyst memo calculates normalized FCF of $70-75M on $2.2B market cap | FCF exceeds estimates materially for 2+ quarters |
-| "Defensive" non-discretionary demand | True but priced in at premium multiple | Industry trades at 12.9x median; TIC at 15.5x; premium requires above-average execution | Industry analyst found competitors at 12.9-14.3x; TIC commands 10%+ premium | Multiple compresses to industry average |
-| Labor moat = pricing power | Labor moat = margin protection, not margin expansion | NDT shortage prevents new entrant competition but also prevents TIC from scaling without wage inflation | Quality Magazine data: 15% decline in Level II certifications vs 8% demand growth | Technology (drones/AI) scales faster than expected |
-
-**Assessment:** We do not have a differentiated view that justifies taking risk. The bull case (successful roll-up, multiple re-rating to 14x+ mid-cycle) is the consensus view. The bear case (integration stumble, leverage overhang, dilution) is also well-understood. No edge.
-
----
-
-## The Setup
-
-**Why This is Too Hard:**
-
-1. **Execution-dependent thesis.** Bull case requires: (a) NV5 synergies realized, (b) organic growth sustains 4-5%, (c) margins expand to 16%+, (d) deleveraging on schedule. All four must work. Miss on any extends timeline or compresses multiple.
-
-2. **Valuation offers no margin of safety.** At $10/share, mid-cycle normalized value is $11-14 assuming flawless execution. Downside to $7-8 if integration disappoints and multiple compresses to 11x (bear case). Risk/reward is ~1:1 at best.
-
-3. **Capital structure complexity.** Series A Preferred, 82% dilution in 11 months, $250M PIPE at $12 (below then-market). Ongoing dilution of ~0.3%+ annually from preferred dividends alone. Management has demonstrated willingness to dilute.
-
-4. **GAAP vs. non-GAAP gulf is extreme.** $245M Adj. EBITDA vs. ongoing GAAP losses. $26M+ quarterly amortization, $100M+ annual interest. Investors are buying cash flow, not earnings. Cash flow quality is medium, not high.
-
-5. **Incentive misalignment.** Franklin benefits from platform growth, not per-share value. General Counsel sold 100% of holdings ($503K) Nov 2025. CEO owns 0.22%. This is not owner-operator alignment.
+| Market Believes | We Believe | What Changes Minds |
+|-----------------|------------|-------------------|
+| TIC is an NDT company that overpaid for NV5 | Half of EBITDA already from 50%+ gross margin engineering/geo segments; Legence at $5B for similar EBITDA | Data center revenue $100M+ run-rate |
+| GAAP losses = unprofitable | ~$100M+ annual PPA amortization (non-cash); cash engine generates $170M FCF | GAAP profitability (likely H2 2027) |
+| Leverage is dangerous at 4.5x | 3.3x interest coverage on $350M EBITDA; $530M+ liquidity; variable rate benefits from cuts | Leverage below 3.0x |
+| I&M margins declining structurally | Temporary: LNG completion, turnaround timing, wage lag, deliberate pruning. Combined margin up 25%→32% | I&M stabilizes 25%+ |
 
 ---
 
@@ -66,66 +64,58 @@ TIC is a levered roll-up in a structurally attractive industry (regulatory-manda
 
 | Metric | Value | Context |
 |--------|-------|---------|
-| EV/2025E EBITDA | 15.5x | Industry median 12.9x; premium requires outperformance |
-| Net Debt/EBITDA | 4.1x | Target 3.0x; 18-24 month path |
-| Normalized FCF (SBC-adj) | $70-75M | 3.2% yield on $2.2B market cap |
-| Interest expense | ~$105M | ~43% of Adj. EBITDA |
-| Goodwill + intangibles | ~75% of assets | Impairment risk if integration fails |
-| Share count growth | +82% in 11 months | NV5, PIPE, Series A dividend |
+| EV/2025E EBITDA | ~14x | NDT peers 12-14x; engineering peers 15-30x |
+| Net Debt/EBITDA | ~3.5x post-injection | $1.2B net debt on $350M EBITDA |
+| FCF | ~$170M (7.7% yield) | Tax-shielded; was $70-75M in original memo |
+| Gross margin (combined) | 32% | Up from 25% legacy; CE 51.4%, GEO 48.4% |
+| Backlog | $1B+ (up 10.6%) | 88% of 2026 revenue locked in |
+| Data center revenue | ~$50-100M run-rate | Doubled YTD; targets $400M+ |
+| Cross-sell target | $40M year-one | Backed by signed contracts |
 
-**Mid-cycle normalized earnings power (2027+):**
-- Revenue: $1.65-1.75B
-- Adj. EBITDA: $270-290M at 16.5% margin
-- Normalized FCF (SBC-adj): $130-150M
-- Fair value range: $11.75-14/share at 12-14x EV/EBITDA
+**Scenario Analysis (2028):**
 
-Current price (~$10) prices in base-to-optimistic outcome.
-
----
-
-## Risks & Kill Switches
-
-**What invalidates the bull case:**
-- NV5 synergies below $15M (vs. $25M target)
-- Organic growth declines below 3%
-- Margin compression toward 14%
-- Additional equity raise below $10
-
-**What causes permanent loss:**
-- Leverage covenant breach (unlikely with covenant-lite structure)
-- Goodwill impairment from integration failure
-- Energy transition accelerates refinery closures (long-term)
-
-**What forces re-evaluation:**
-- General Counsel sale may signal insider concerns
-- $250M PIPE at $12 suggests management views $12 as full value
+| Scenario | EBITDA | Multiple | Per Share | vs. Current |
+|----------|--------|---------|-----------|-------------|
+| Bull (re-rating) | $550-600M | 13-15x | $28-35 | +184% to +255% |
+| Base (plan works) | $400-450M | 11-12x | $15-20 | +52% to +103% |
+| Bear (stall) | $300-330M | 8-9x | $6-9 | -9% to -39% |
 
 ---
 
-## What Would Move This Out of Too Hard
+## Where We Disagree With The Bulls
 
-1. **Share price below $8** -- Creates margin of safety for execution risk
-2. **Two quarters of FCF beat vs. estimates** -- Demonstrates deleveraging pace ahead of schedule
-3. **Insider buying at scale** -- Franklin or CEO buying common shares, not just receiving them
-4. **Industry consolidation premium** -- SGS/Bureau Veritas acquisition interest creates floor
-5. **Synergies tracking ahead of schedule** -- Integration proof points beyond management guidance
+1. **Franklin's preferred is worse than both Citrini and Colubeat acknowledge.** Colubeat claims it "participates in losses" — misleading. Preferred is structurally senior. The 20% upside take doesn't exist in the APG precedent they cite.
 
----
+2. **Colubeat's bear case math is wrong.** Claims -15% ($9.35) at 7x on $350M. Actual: 7x × $350M = $2.45B EV, minus $1.2B debt = $1.25B / 241M = $5.19. Real bear is $5-7.
 
-## Final Assessment
+3. **$600M 2028 EBITDA is aspirational.** Requires 20% margins (vs 15.5-16.5% guided) AND 8% legacy growth (vs 3-5% guided). Both materially exceed guidance.
 
-TIC is a real business in a good industry. The regulatory moat and labor supply constraints provide genuine earnings durability. But the investment setup is unattractive:
-
-- Premium valuation assumes flawless execution
-- Incentive structure favors platform growth over per-share value
-- 82% dilution in 11 months with more possible
-- Normalized FCF yield is 3.2%, not 6%
-- No variant view vs. consensus
-
-**This is a "might work, can't size responsibly" situation.** The risk/reward at $10 is roughly symmetric. Pass.
-
-If the stock drops 20%+ on an integration hiccup or market dislocation, revisit. Until then, there are better uses of capital.
+4. **3-5 year patience ignores dilution cost.** Preferred issues shares annually. 82% dilution already happened. Time is not free.
 
 ---
 
-*Decision: NEUTRAL (Too Hard)*
+## Forward Path & Catalysts
+
+**March 12 — Q4 2025 earnings (decision point):** First full NV5 quarter. Watch: data center revenue breakout, margin trajectory, deleveraging pace.
+
+**March 17 — JPM Industrials Conference:** Management narrative on pipeline.
+
+**Medium-term:** Investor day (APG's produced 40%+ appreciation in weeks — not yet scheduled for TIC). New analyst coverage. Cross-sell revenue in organic growth. Rate cuts reducing interest.
+
+---
+
+## Positioning & Portfolio Logic
+
+**No position. Watchlist with March 12 trigger.**
+
+- **If March 12 shows:** data center revenue $100M+ run-rate, margins 17%+, deleveraging on pace → Initiate 1-1.5% speculative position. Asymmetric: base $15-20, bull $28-35, bear $6-9.
+
+- **If March 12 shows:** vague data center disclosure, 3-5% growth, 15-16% margins → Remain on watchlist.
+
+**Hyperscaler capex context:** TIC is a second-derivative play — designs cooling, electrical, and commissioning systems for data centers. Less clean than SK Hynix or IESC as a capex expression due to leverage and preferred friction, but $170M FCF at 7.7% yield with re-rating optionality makes it more interesting than originally assessed. The Legence comp ($5B for similar engineering EBITDA) is the single strongest data point for the bull case.
+
+---
+
+*Decision: NEUTRAL (Watchlist — Catalyst-Dependent). Revisit after March 12 Q4 earnings.*
+
+*Sources: Citrini Research (Sep 2025), Colubeat Investment Desk (Jan 2026), TIC Q3 2025 10-Q, JPMorgan initiation.*
